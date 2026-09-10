@@ -15,9 +15,9 @@
 ## Packages
 
 - [x] Welcome to the Tour
-- [ ] Packages
-- [ ] Imports
-- [ ] Exported names
+- [x] Packages
+- [x] Imports
+- [x] Exported names
 
 ## Functions
 
